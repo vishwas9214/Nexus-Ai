@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Nexus AI",
+  "description": "A premium AI assistant for an all-in-one AI platform featuring chat, generation, and application building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
